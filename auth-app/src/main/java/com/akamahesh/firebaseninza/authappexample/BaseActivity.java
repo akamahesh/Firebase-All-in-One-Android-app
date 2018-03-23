@@ -3,6 +3,7 @@ package com.akamahesh.firebaseninza.authappexample;
 import android.app.ProgressDialog;
 import android.support.annotation.VisibleForTesting;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 
 public class BaseActivity extends AppCompatActivity {
 
@@ -29,6 +30,7 @@ public class BaseActivity extends AppCompatActivity {
     public void onStop() {
         super.onStop();
         hideProgressDialog();
+        Log.d(getClass().getSimpleName(), "onStop: ");
     }
 
 }
