@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Firebase-All-in-One.iml" filepath="$PROJECT_DIR$/Firebase-All-in-One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admob-app/admob-app.iml" filepath="$PROJECT_DIR$/admob-app/admob-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-app/auth-app.iml" filepath="$PROJECT_DIR$/auth-app/auth-app.iml" />
+    </modules>
+  </component>
+</project>

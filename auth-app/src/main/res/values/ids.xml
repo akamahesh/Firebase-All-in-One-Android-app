@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="web_client_id">1305329043-dk751frph3j4qmnchfdtntbr4l8mmv66.apps.googleusercontent.com</string>
+
+    <!--
+        Your Facebook App ID. See README.
+    -->
+    <string name="facebook_app_id">1796980430605170</string>
+    <string name="facebook_app_secret">a489b8c967fbe81518f77b38dfa47a7c</string>
+    <string name="fb_login_protocol_scheme">fb1796980430605170</string>
+
+    <!--
+      Your Twitter Key and Secret, see README.
+    -->
+    <string name="twitter_consumer_key">pSQeXlx2rOh6ycPw2uBcuXoSq</string>
+    <string name="twitter_consumer_secret">5SGRD5Nftpttum2vLEcojzl2dzHaQN8sb3wvq8BwgRRX8bP7HB</string>
+</resources>
